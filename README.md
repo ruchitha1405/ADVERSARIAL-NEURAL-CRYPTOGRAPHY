@@ -1,5 +1,7 @@
 # ADVERSARIAL-NEURAL-CRYPTOGRAPHY
 
+Link to the research paper : [LEARNING TO PROTECT COMMUNICATIONS
+WITH ADVERSARIAL NEURAL CRYPTOGRAPHY](https://arxiv.org/pdf/1610.06918.pdf)
 - install libraries in requirements.txt
 
 - checkpoints are stored in the path ./lib/checkpoints. No need to remember the path, it will be created and loaded automatically by calling load function.
